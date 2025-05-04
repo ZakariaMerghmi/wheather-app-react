@@ -29,9 +29,12 @@ Originally developed using just HTML, CSS, and vanilla JS – this new version i
 
 ## 📦 Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/weather-react-app.git
+
+## 📄 License
+
+This project is licensed under the **Eclipse Public License - v 2.0**.  
+See the full license text here: [EPL-2.0](https://www.eclipse.org/legal/epl-2.0/)
+
 
 # Install dependencies
 cd weather-react-app

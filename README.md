@@ -25,7 +25,7 @@ Originally developed using just HTML, CSS, and vanilla JS – this new version i
 
 ### ❌ Error State
 
-![Error State](./screenshots/error.png)
+![Image](https://github.com/user-attachments/assets/86d25b01-0893-4332-918c-ee59cb045b22)
 
 ## 📦 Getting Started
 

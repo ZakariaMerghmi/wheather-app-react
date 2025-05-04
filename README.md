@@ -29,6 +29,7 @@ Originally developed using just HTML, CSS, and vanilla JS – this new version i
 
 ## 📦 Getting Started
 
+![Image](https://github.com/user-attachments/assets/8fc07759-5153-4e93-a3df-4f1de13fddff)
 
 ## 📄 License
 

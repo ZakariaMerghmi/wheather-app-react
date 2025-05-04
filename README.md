@@ -21,7 +21,7 @@ Originally developed using just HTML, CSS, and vanilla JS – this new version i
 
 ### ✅ Success State
 
-![Success State](./screenshots/success.png)
+![Success State]city-page.png
 
 ### ❌ Error State
 

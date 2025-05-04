@@ -21,7 +21,7 @@ Originally developed using just HTML, CSS, and vanilla JS – this new version i
 
 ### ✅ Success State
 
-![Success State]city-page.png
+![Image](https://github.com/user-attachments/assets/c4c9fa67-3351-4acb-86b5-2d1b28b21187)
 
 ### ❌ Error State
 
